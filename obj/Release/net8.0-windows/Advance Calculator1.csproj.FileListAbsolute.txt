@@ -1,0 +1,16 @@
+C:\Users\wasee\Downloads\Advance Calculator1\bin\Release\net8.0-windows\Advance Calculator1.exe
+C:\Users\wasee\Downloads\Advance Calculator1\bin\Release\net8.0-windows\Advance Calculator1.deps.json
+C:\Users\wasee\Downloads\Advance Calculator1\bin\Release\net8.0-windows\Advance Calculator1.runtimeconfig.json
+C:\Users\wasee\Downloads\Advance Calculator1\bin\Release\net8.0-windows\Advance Calculator1.dll
+C:\Users\wasee\Downloads\Advance Calculator1\bin\Release\net8.0-windows\Advance Calculator1.pdb
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance_Calculator1.Form1.resources
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.csproj.GenerateResource.cache
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.AssemblyInfoInputs.cache
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.AssemblyInfo.cs
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.dll
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\refint\Advance Calculator1.dll
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.pdb
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\Advance Calculator1.genruntimeconfig.cache
+C:\Users\wasee\Downloads\Advance Calculator1\obj\Release\net8.0-windows\ref\Advance Calculator1.dll

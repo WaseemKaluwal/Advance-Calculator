@@ -1,0 +1,5 @@
+C:\Users\wasee\Documents\Advance Calculator\Advance Calculator1.exe
+C:\Users\wasee\Documents\Advance Calculator\Advance Calculator1.dll
+C:\Users\wasee\Documents\Advance Calculator\Advance Calculator1.deps.json
+C:\Users\wasee\Documents\Advance Calculator\Advance Calculator1.runtimeconfig.json
+C:\Users\wasee\Documents\Advance Calculator\Advance Calculator1.pdb
